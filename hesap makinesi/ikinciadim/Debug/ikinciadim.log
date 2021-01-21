@@ -1,0 +1,3 @@
+﻿  ikinciadim.cpp
+C:\Users\Administrator\source\repos\ikinciadim\ikinciadim\ikinciadim.cpp(60,11): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  ikinciadim.vcxproj -> C:\Users\Administrator\source\repos\ikinciadim\Debug\ikinciadim.exe
